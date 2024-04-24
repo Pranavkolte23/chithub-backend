@@ -1,0 +1,16 @@
+[
+    {
+      "groupName": "Group A",
+      "amount": 100,
+      "sender": "John Doe",
+      "receiver": "Jane Smith"
+    },
+    {
+      "groupName": "Group A",
+      "amount": 90,
+      "sender": "Alice",
+      "receiver": "Jane Smith"
+    }
+   
+  ]
+  

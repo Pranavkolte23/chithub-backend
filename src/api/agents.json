@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Harsh",
+      "startTime": "09:00 AM",
+      "endTime": "10:00 AM",
+      "winningBids": 1000
+    },
+    {
+      "id": 2,
+      "name": "Pranav",
+      "startTime": "10:00 AM",
+      "endTime": "11:00 PM",
+      "winningBids": 1200
+    }
+  ]
+  

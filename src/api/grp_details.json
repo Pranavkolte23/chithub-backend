@@ -1,0 +1,17 @@
+[
+    {
+      "groupName": "Group A",
+      "numbers": "10",
+      "chitValue": "$10000",
+      "numberOfMonths": "12",
+      "startDate": "2024-05-01"
+    },
+    {
+      "groupName": "Group B",
+      "numbers": "5",
+      "chitValue": "$500",
+      "numberOfMonths": "24",
+      "startDate": "2024-06-01"
+    }
+  ]
+  
